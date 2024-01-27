@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Kumar Mahanta</h1>
 <h3 align="center">BE A DEVELOPER.</h3>
-<img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&usqp=CAU">
+<img align="right" alt="https://media.istockphoto.com/id/991143690/photo/business-performance-analysis.jpg?s=612x612&w=0&k=20&c=GyJGKTdQKHSWoG5ypf89OGa3nHsx3d0aDCiwVf52fXQ=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanukumar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shantanukumar-dev" /> </p>
 
