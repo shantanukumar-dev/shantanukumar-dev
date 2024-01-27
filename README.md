@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Kumar Mahanta</h1>
 <h3 align="center">BE A DEVELOPER.</h3>
-<img align="right" alt="C:\Users\DELL\Downloads\james-harrison-vpOeXr5wmR4-unsplash.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanukumar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shantanukumar-dev" /> </p>
 
